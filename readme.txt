@@ -7,7 +7,5 @@ Creating a new branch is quick and simple.
 快速合并fast forward
 second fast forward
 bug 分支
-bug fenzhi
-123
-456
+
 
